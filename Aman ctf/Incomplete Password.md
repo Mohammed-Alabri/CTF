@@ -1,3 +1,7 @@
+Incomplete Password
+https://ctf.eoman.com/competitions/public/cryptography/incomplete_password
+
+```python
 from hashlib import sha1
 from string import printable
 hashh = "827d1057ad7258b180efca5e9cc25795a1a5f622"
@@ -16,3 +20,4 @@ def rec(password: str):
 
 
 rec(password)  # call recursive function
+```
