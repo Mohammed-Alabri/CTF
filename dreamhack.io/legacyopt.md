@@ -1,5 +1,6 @@
 * challange: ```legacyopt```
 * link: https://dreamhack.io/wargame/challenges/1532
+
 ```python
 hashh = b"\x88\x66\x44\x11\x77\x55\x22\x33"
 
